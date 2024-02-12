@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qppj-fm5r-hxr3",
-	"modified": "2023-12-21T22:31:00.207309Z",
+	"modified": "2024-02-09T00:49:24.066227Z",
 	"published": "2023-10-10T21:28:24Z",
 	"aliases": [
 		"BIT-apisix-2023-44487",
@@ -36,7 +36,7 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "https://github.com/apple/swift-nio-http2"
+				"name": "github.com/apple/swift-nio-http2"
 			},
 			"ranges": [
 				{
