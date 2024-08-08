@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qppj-fm5r-hxr3",
-	"modified": "2024-08-02T11:02:40.982919Z",
+	"modified": "2024-08-07T20:01:43.272899Z",
 	"published": "2023-10-10T21:28:24Z",
 	"aliases": [
 		"BIT-apisix-2023-44487",
@@ -340,8 +340,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat:tomcat",
-				"purl": "pkg:maven/org.apache.tomcat/tomcat"
+				"name": "org.apache.tomcat:tomcat-coyote",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-coyote"
 			},
 			"ranges": [
 				{
@@ -374,8 +374,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat:tomcat",
-				"purl": "pkg:maven/org.apache.tomcat/tomcat"
+				"name": "org.apache.tomcat:tomcat-coyote",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-coyote"
 			},
 			"ranges": [
 				{
@@ -447,8 +447,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat:tomcat",
-				"purl": "pkg:maven/org.apache.tomcat/tomcat"
+				"name": "org.apache.tomcat:tomcat-coyote",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-coyote"
 			},
 			"ranges": [
 				{
@@ -536,8 +536,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat:tomcat",
-				"purl": "pkg:maven/org.apache.tomcat/tomcat"
+				"name": "org.apache.tomcat:tomcat-coyote",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-coyote"
 			},
 			"ranges": [
 				{
@@ -1837,6 +1837,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/akka/akka-http/pull/4324"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/944332bb15bd2f3bf76ec2caeb1ff0a58a3bc628"
 		},
 		{
 			"type": "WEB",
