@@ -18,7 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/grpc/grpc-swift"
+				"name": "github.com/grpc/grpc-swift",
+				"purl": "pkg:swift/github.com/grpc/grpc-swift"
 			},
 			"ranges": [
 				{

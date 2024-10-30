@@ -146,7 +146,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/mongodb/mongo-swift-driver"
+				"name": "github.com/mongodb/mongo-swift-driver",
+				"purl": "pkg:swift/github.com/mongodb/mongo-swift-driver"
 			},
 			"ranges": [
 				{

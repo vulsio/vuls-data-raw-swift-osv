@@ -18,7 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/apple/swift-nio-ssl"
+				"name": "github.com/apple/swift-nio-ssl",
+				"purl": "pkg:swift/github.com/apple/swift-nio-ssl"
 			},
 			"ranges": [
 				{

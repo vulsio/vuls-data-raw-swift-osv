@@ -18,7 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/apple/swift-nio"
+				"name": "github.com/apple/swift-nio",
+				"purl": "pkg:swift/github.com/apple/swift-nio"
 			},
 			"ranges": [
 				{
@@ -40,7 +41,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/apple/swift-nio"
+				"name": "github.com/apple/swift-nio",
+				"purl": "pkg:swift/github.com/apple/swift-nio"
 			},
 			"ranges": [
 				{
@@ -62,7 +64,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/apple/swift-nio"
+				"name": "github.com/apple/swift-nio",
+				"purl": "pkg:swift/github.com/apple/swift-nio"
 			},
 			"ranges": [
 				{

@@ -18,7 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/apple/swift-corelibs-foundation"
+				"name": "github.com/apple/swift-corelibs-foundation",
+				"purl": "pkg:swift/github.com/apple/swift-corelibs-foundation"
 			},
 			"ranges": [
 				{

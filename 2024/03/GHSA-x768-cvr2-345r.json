@@ -18,7 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/swift-server/swift-prometheus"
+				"name": "github.com/swift-server/swift-prometheus",
+				"purl": "pkg:swift/github.com/swift-server/swift-prometheus"
 			},
 			"ranges": [
 				{

@@ -18,7 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/migueldeicaza/SwiftTerm"
+				"name": "github.com/migueldeicaza/SwiftTerm",
+				"purl": "pkg:swift/github.com/migueldeicaza/SwiftTerm"
 			},
 			"ranges": [
 				{

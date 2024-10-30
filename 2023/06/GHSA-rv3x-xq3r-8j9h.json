@@ -12,7 +12,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/vapor/leaf-kit"
+				"name": "github.com/vapor/leaf-kit",
+				"purl": "pkg:swift/github.com/vapor/leaf-kit"
 			},
 			"ranges": [
 				{

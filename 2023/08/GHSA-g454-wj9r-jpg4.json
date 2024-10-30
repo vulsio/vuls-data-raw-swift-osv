@@ -18,7 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/marmelroy/Zip"
+				"name": "github.com/marmelroy/Zip",
+				"purl": "pkg:swift/github.com/marmelroy/Zip"
 			},
 			"ranges": [
 				{

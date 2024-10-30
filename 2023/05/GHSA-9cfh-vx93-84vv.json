@@ -20,7 +20,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/vapor/postgres-nio"
+				"name": "github.com/vapor/postgres-nio",
+				"purl": "pkg:swift/github.com/vapor/postgres-nio"
 			},
 			"ranges": [
 				{

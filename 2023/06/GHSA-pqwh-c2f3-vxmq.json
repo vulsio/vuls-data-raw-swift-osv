@@ -12,7 +12,8 @@
 		{
 			"package": {
 				"ecosystem": "SwiftURL",
-				"name": "github.com/vapor/vapor"
+				"name": "github.com/vapor/vapor",
+				"purl": "pkg:swift/github.com/vapor/vapor"
 			},
 			"ranges": [
 				{
